@@ -676,7 +676,7 @@ Oh 好像是我的錯
                             );
                           },
                           child: Card(
-                            elevation: 2,
+                            elevation: 1,
                             shape: RoundedRectangleBorder(
                               borderRadius: BorderRadius.circular(5.0),
                             ),
